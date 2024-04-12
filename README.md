@@ -2,8 +2,8 @@
 <p align="center">
   <samp>
     Hello there 👋,
-    <br> I'm a Software Engineer,
-    <br> specializing in Site Reliability Engineering (SRE) & DevOps practices.
+    <br> I'm System Software Engineer,
+    <br> specializing in Site Reliability Engineering (SRE) & DevOps practices with global systems (100.000 endpoint users/mnth).
     <br> Beyond keeping systems reliable, I craft software solutions to enhance system performance and resilience.
     <br><br> GitHub is my playground for sharing insights and exploring innovative ideas, while I leverage GitLab for enterprise-level project collaborations.
   </samp>
