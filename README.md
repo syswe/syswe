@@ -3,7 +3,8 @@
   <samp>
     Hello there 👋,
     <br> I'm System Software Engineer,
-    <br> specializing in Site Reliability Engineering (SRE) & DevOps practices with global systems (100.000 endpoint users/mnth).
+    <br> specializing in Site Reliability Engineering (SRE) & DevOps practices. 
+    <br> Building and Managing Systems for 300K Users per month.
     <br> Beyond keeping systems reliable, I craft software solutions to enhance system performance and resilience.
     <br><br> GitHub is my playground for sharing insights and exploring innovative ideas, while I leverage GitLab for enterprise-level project collaborations.
   </samp>
