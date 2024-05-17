@@ -2,7 +2,7 @@
 <p align="center">
   <samp>
     Hello there 👋,
-    <br> I'm Lead Site Reliability Engineer,
+    <br> I'm an engineer,
     <br> specializing in System Software Solutions & DevSecOps practices. 
     <br> Building and Managing Systems for 300K Users per month.
     <br> Beyond keeping systems reliable, I craft software solutions to enhance systems.
