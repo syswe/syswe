@@ -11,7 +11,7 @@
 </p>
 
 
-# .code
+# .tech
 <p align="center">
   <div align="center">
     
