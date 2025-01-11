@@ -1,11 +1,10 @@
 # .init
-<p align="center">
+<p>
   <samp>
-    Hello there 👋,
-    <br> I'm an engineer,
+    Hello there 👋 I'm an engineer,
     <br> specializing in System Software Solutions & DevSecOps practices. 
     <br> Building and Managing Systems for 300K Users per month.
-    <br> Beyond keeping systems reliable, I craft software solutions to enhance systems.
+    <br> Beyond keeping systems reliable, I also craft some interesting software solutions.
     <br><br> GitHub is my playground for sharing insights and exploring innovative ideas, while I leverage GitLab for enterprise-level project collaborations.
   </samp>
 </p>
@@ -31,7 +30,7 @@
 </p>
 
 # .me
-<p align="center">
+<p>
   <samp>
     tech blog:  
     <a href="https://syswe.medium.com/" target="_blank">syswe.medium.com</a> <br>
