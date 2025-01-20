@@ -40,7 +40,3 @@
     you can say "hi! 👋" to me with quick e-mail: <a href="mailto:canberk@nohost.co">canberk@nohost.co</a>
   </samp>
 </p>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syswe/)
-</div>
