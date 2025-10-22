@@ -37,6 +37,6 @@
 # .me
 <p>
   <samp>
-    you can say "hi! 👋" to me with quick e-mail: <a href="mailto:canberk@nohost.co">canberk@nohost.co</a>
+    you can say "hi! 👋" to me with quick e-mail: <a href="mailto:canberkdmn@gmail.com">canberkdmn@gmail.com</a>
   </samp>
 </p>
