@@ -1,4 +1,4 @@
-# .init
+# .me
 <p>
   <samp>
     hello there I'm an engineer,
@@ -34,9 +34,9 @@
   </div>
 </p>
 
-# .me
+# .contact
 <p>
   <samp>
-    you can say "hi! 👋" to me with quick e-mail: <a href="mailto:canberkdmn@gmail.com">canberkdmn@gmail.com</a>
+    you can say "hi! 👋" to me with quick e-mail: <a href="mailto:canberkdmn@gmail.com">canberkdmn@gmail.com</a>, also can check my <a href="https://www.linkedin.com/in/syswe/">LinkedIn account</a> for more of my experience and directly getting contact.
   </samp>
 </p>
