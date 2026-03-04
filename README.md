@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-# .tech
+# .stack
 
 <p>
   <div>  
