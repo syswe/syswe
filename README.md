@@ -3,7 +3,7 @@
   <samp>
     hello there I'm an engineer,
     <br> specializing in <b>Cloud Systems, Software Solutions & DevSecOps practices</b>. 
-    <br> building and managing cloud systems & platforms for <b> 300K Users per month.</b>
+    <br> building and managing cloud systems & platforms for <b> 1M+ Users per month.</b>
     <br> beyond keeping systems reliable, I also craft some interesting software solutions.
     <br><br> GitHub is my playground for sharing insights and exploring innovative ideas, while I leverage GitLab for enterprise-level project collaborations.
   </samp>
